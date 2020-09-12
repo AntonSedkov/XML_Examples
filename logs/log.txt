@@ -1,0 +1,5 @@
+2020-08-29 18:13:56 [main] ERROR StudentErrorHandler:16 - 12 : 48 - cvc-id.2: There are multiple occurrences of ID value 'MitarAlex7'.
+2020-08-29 18:13:56 [main] ERROR StudentErrorHandler:16 - 12 : 48 - cvc-attribute.3: The value 'MitarAlex7' of attribute 'login'
+on element 'student' is not valid with respect to its type, 'Login'.
+2020-08-29 18:15:36 [main] FATAL StudentErrorHandler:20 - 15 : 9 - The end-tag for element type "telephone" must end with a '>' delimiter.
+2020-08-29 18:16:20 [main] FATAL StudentErrorHandler:20 - 14 : 26 - Element type "telephone3453789" must be followed by either attribute specifications, ">" or "/>".
